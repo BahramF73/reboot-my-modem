@@ -1,5 +1,5 @@
 # Reboot My Modem
-Reboot My Modem is a Python script to reboot your modem remotely without doing stuffs.(for lazy people 😁)
+Reboot My Modem is a Python script to reboot your modem remotely without doing stuffs.
 
 **⚠️ Just tested on "Tenda N301"**
 
